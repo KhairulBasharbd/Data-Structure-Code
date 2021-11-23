@@ -1,0 +1,3 @@
+Here the given algorithm is easy to understand:
+
+https://www.geeksforgeeks.org/quick-sort/
